@@ -56,7 +56,7 @@
 	setMinAndMax(15, 44);
 	run("Apply LUT");
 	run("Threshold...");
-	waitForUser("Please define the treshold of the red channel.");
+	waitForUser("Please define the treshold of the green channel.");
 	getThreshold(lower, upper);
 	setThreshold(lower, upper);
 	setOption("BlackBackground", false);
@@ -73,7 +73,7 @@
 	roiManager("Measure");
 	Table.deleteColumn("Min");
 	Array_R = Table.getColumn("Max");
-	print(Array_R[2155]);
+	//print(Array_R[2155]);
 	run("Clear Results");
 	roiManager("Show None");
 	selectWindow("Green");
