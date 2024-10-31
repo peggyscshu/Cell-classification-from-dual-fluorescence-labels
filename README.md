@@ -32,5 +32,5 @@ Fig. 2. Two trained Weka models are available here to analyze the nuclear channe
 1. Install Fiji.
 2. Download the model according to the contrast of the nuclear channel.
 3. Save the model in the same folder of raw images.
-4. Download the ijm script of autothrshold version or the user definalbe version.
+4. Download the ijm script of autothreshold version or the user definalbe version.
 5. Drag and drop a raw image and execute the script. 
