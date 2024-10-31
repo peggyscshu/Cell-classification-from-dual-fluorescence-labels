@@ -1,4 +1,5 @@
-# Cell classification from dual fluorescence labels
+# Cell classification from dual fluorescence labels  ![image](https://github.com/user-attachments/assets/2203a023-1fca-425b-86f3-c362e5aae597)
+
 Fluorescence-based cell classification is a high-throughput strategy for identifying cells expressing different molecules.
 Here I offered two scripts based on Fiji to classify cells automatically or user interactively. 
 Both of the labeled molecules are expressed in the nucleus. Therefore, the nuclear staining is prerequisite of this tool. 
