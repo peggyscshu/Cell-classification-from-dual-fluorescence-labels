@@ -1,4 +1,4 @@
-# Cell classification from dual fluorescence labels  ![image](https://github.com/user-attachments/assets/2203a023-1fca-425b-86f3-c362e5aae597)
+# Cell classification from dual fluorescence labels  [![DOI](https://zenodo.org/badge/749085983.svg)](https://doi.org/10.5281/zenodo.10608752)
 
 Fluorescence-based cell classification is a high-throughput strategy for identifying cells expressing different molecules.
 Here I offered two scripts based on Fiji to classify cells automatically or user interactively. 
